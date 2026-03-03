@@ -1,5 +1,5 @@
 pipeline {
-    agent any
+    agent any 
 	
 	tools {
     jdk 'JAVA1.8' 
